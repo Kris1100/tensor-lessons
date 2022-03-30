@@ -1,39 +1,26 @@
 interface FileSystemNode{
     var parent : FileSystemNode?
     var name : String
-    fun getParent2() : FileSystemNode?
-    fun getName2() : String
     fun getPath() : String
-    fun setParent2(parent : FileSystemNode?) : Unit
 }
 
 abstract class AbstractFileSystemNode : FileSystemNode{
     override var parent : FileSystemNode? = null
     override abstract var name : String
     
-    override fun getParent2() : FileSystemNode?{
-        return this.parent
-    }
-
-    override fun getName2() : String{
-        return this.name
-    }
-    
     override fun getPath() : String{
         var res : String = ""
         var curr : FileSystemNode? = this
         while (true){
             if (curr != null){
-            	res = curr.getName2() + "\\" + res 
-            	curr = curr.getParent2()
+            	res = curr.name + "\\" + res 
+            	curr = curr.parent
             }
             else break
         }
         return res
     }
-     	override fun setParent2(parent : FileSystemNode?) : Unit{
-        this.parent = parent
-    }
+    
     
 }
 
