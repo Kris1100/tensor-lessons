@@ -1,0 +1,149 @@
+1) add
+	2022-04-11 15:13:31.948 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:13:31.951 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:13:31.952 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:13:32.368 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:13:32.376 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:13:32.389 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:14:04.864 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:14:04.866 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:14:04.867 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:14:04.913 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:14:04.916 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:14:04.922 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+2022-04-11 15:14:10.231 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onPause
+2022-04-11 15:14:10.232 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onPause
+2022-04-11 15:14:10.276 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStop
+2022-04-11 15:14:10.277 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStop
+2022-04-11 15:14:10.301 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onSaveInstanceState
+2022-04-11 15:14:10.325 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onSaveInstanceState
+2022-04-11 15:14:10.384 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroyView
+2022-04-11 15:14:10.388 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroy
+2022-04-11 15:14:10.389 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDetach
+2022-04-11 15:14:10.392 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroyView
+2022-04-11 15:14:10.393 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroy
+2022-04-11 15:14:10.394 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDetach
+2022-04-11 15:14:10.588 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:14:10.588 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:14:10.596 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:14:10.597 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:14:10.809 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:14:10.966 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:14:10.972 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:14:11.034 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:14:11.037 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:14:11.037 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:14:11.042 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:14:11.042 15953-15953/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+1.1 onResume и FragmentA и FragmentB
+1.2 onResume и FragmentA и FragmentB
+1.3 onResume и FragmentA и FragmentB
+2) replace
+	2022-04-11 15:20:43.637 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:20:43.638 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:20:43.806 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:20:44.069 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:20:44.081 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:20:44.087 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:20:59.717 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onPause
+2022-04-11 15:20:59.718 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStop
+2022-04-11 15:20:59.734 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:20:59.735 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:20:59.736 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:20:59.793 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:20:59.795 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:20:59.818 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroyView
+2022-04-11 15:20:59.832 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroy
+2022-04-11 15:20:59.833 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDetach
+2022-04-11 15:20:59.834 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+2022-04-11 15:21:04.729 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onPause
+2022-04-11 15:21:04.756 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStop
+2022-04-11 15:21:04.761 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onSaveInstanceState
+2022-04-11 15:21:04.767 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroyView
+2022-04-11 15:21:04.768 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroy
+2022-04-11 15:21:04.768 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDetach
+2022-04-11 15:21:04.828 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:21:04.829 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:21:04.862 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:21:04.881 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:21:04.882 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:21:04.886 16872-16872/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+2.1 FragmentA: onDetach и FragmentB: onResume
+2.2 FragmentA: onDetach и FragmentB: onResume
+2.3 FragmentA: onDetach и FragmentB: onResume
+3) add + addToBackStack 
+	2022-04-11 15:25:58.190 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:25:58.191 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:25:58.192 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:25:58.784 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:25:58.807 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:25:58.817 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:26:23.461 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:26:23.461 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:26:23.462 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:26:23.479 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:26:23.480 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:26:23.484 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+2022-04-11 15:27:33.414 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onPause
+2022-04-11 15:27:33.414 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onPause
+2022-04-11 15:27:33.424 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStop
+2022-04-11 15:27:33.424 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStop
+2022-04-11 15:27:33.429 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onSaveInstanceState
+2022-04-11 15:27:33.432 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onSaveInstanceState
+2022-04-11 15:27:33.455 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroyView
+2022-04-11 15:27:33.460 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroy
+2022-04-11 15:27:33.460 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDetach
+2022-04-11 15:27:33.462 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroyView
+2022-04-11 15:27:33.462 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroy
+2022-04-11 15:27:33.462 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDetach
+2022-04-11 15:27:33.492 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:27:33.492 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:27:33.493 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:27:33.493 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:27:33.518 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:27:33.555 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:27:33.556 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:27:33.564 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:27:33.565 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:27:33.565 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:27:33.568 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:27:33.568 17020-17020/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume	
+3.1 FragmentA: onResume FragmentB: onResume
+3.2 FragmentA: onResume FragmentB: onResume
+3.3 FragmentA: onResume FragmentB: onResume
+4)replace + addToBackStack
+	2022-04-11 15:28:48.181 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:28:48.181 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:28:48.182 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreateView
+2022-04-11 15:28:48.344 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onViewCreated
+2022-04-11 15:28:48.351 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStart
+2022-04-11 15:28:48.355 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onResume
+2022-04-11 15:28:52.094 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onPause
+2022-04-11 15:28:52.095 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onStop
+2022-04-11 15:28:52.100 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:28:52.100 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:28:52.100 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:28:52.129 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:28:52.129 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:28:52.141 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroyView
+2022-04-11 15:28:52.145 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+2022-04-11 15:29:12.668 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onPause
+2022-04-11 15:29:12.679 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStop
+2022-04-11 15:29:12.682 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onSaveInstanceState
+2022-04-11 15:29:12.682 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onSaveInstanceState
+2022-04-11 15:29:12.685 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDestroy
+2022-04-11 15:29:12.685 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onDetach
+2022-04-11 15:29:12.689 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroyView
+2022-04-11 15:29:12.690 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDestroy
+2022-04-11 15:29:12.690 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onDetach
+2022-04-11 15:29:12.742 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onAttach
+2022-04-11 15:29:12.743 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreate
+2022-04-11 15:29:12.743 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onAttach
+2022-04-11 15:29:12.743 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentA: onCreate
+2022-04-11 15:29:12.768 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onCreateView
+2022-04-11 15:29:12.782 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onViewCreated
+2022-04-11 15:29:12.782 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onStart
+2022-04-11 15:29:12.784 17100-17100/my.tensor.homework3 I/LifecycleCallbacks: FragmentB: onResume
+4.1 FragmentA: onDestroyView FragmentB: onResume
+4.2 FragmentA: onCreate FragmentB: onResume
+4.3 FragmentA: onCreate FragmentB: onResume
